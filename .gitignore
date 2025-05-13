@@ -45,3 +45,6 @@ Mnesia*/
 *.pem
 .elixir_ls
 apps/anoma_client/anoma_client
+
+# peter
+*.log
